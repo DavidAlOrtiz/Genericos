@@ -1,0 +1,7 @@
+mx\dva\dortiz\poointinterface\repositori\CrudRepositorio.class
+mx\dva\dortiz\poointinterface\repositori\IPaginableRepositorio.class
+mx\dva\dortiz\poointinterface\repositori\Direccion.class
+mx\dva\dortiz\poointinterface\repositori\ClienteListRepositorio.class
+test\Test.class
+mx\dva\dortiz\poointinterface\repositori\IOrdenableRepositorio.class
+mx\dva\dortiz\poointinterface\modelo\Cliente.class
